@@ -38,13 +38,17 @@ Os direitos fundamentais são direitos que têm como objetivo **proteger a digni
 Exemplos de direitos fundamentais:
  - **Direito à honra**: A integridade moral e física de uma pessoa é inviolável;
  - **Direito à reserva da intimidade da vida privada**: A vida privada de uma pessoa não deve ser intrometida por terceiros, bem como a sua divulgação;
+ - **Direito à imagem**: A imagem de uma pessoa não deve ser intrometida por terceiros, bem como a sua divulgação. Exceções: razões de notoriedade, o cargo que desempenhe, exigências de polícia ou de justiça, finalidades científicas, didácticas ou culturais ou quando a reprodução da imagem vier enquadrada na de lugares públicos ou de factos de interesse público que tenham decorrido publicamente;
  - **Direito à inviolabilidade da correspondência, telecomunicações e meios de comunicação**: A correspondência, telecomunicações e meios de comunicação de uma pessoa não devem ser intrometidos por terceiros, bem como a sua divulgação;
  - **Direito à proteção de dados pessoais**: Proibição de acesso a dados pessoais de terceiros, salvo os casos expressamente previstos na lei;
 
-Nota: Todos estes direitos correspondem a direitos de uma pessoa singular, ou seja, de um cidadão.
+**Nota**: Todos estes direitos correspondem a direitos de **uma pessoa singular**, ou seja, de um cidadão. Logo **só podem ser restringidos** por lei ou com consentimento do próprio.
 
+## Regime Jurídico de proteção de dados pessoais
+
+O regime jurídico de proteção de dados pessoais é um conjunto de normas jurídicas que **visam a proteção** das pessoas singulares no que diz respeito ao **tratamento de dados pessoais** e à **livre circulação desses dados**.
 
 ## Dados pessoais
 
-Corresponde a qualquer informação relativa a uma pessoa (singular) identificada ou identificável (ex: nome, número de identificação, etc.).
+Corresponde a qualquer informação relativa a uma pessoa singular identificada/identificável (ex: nome, número de identificação, etc.).
 
