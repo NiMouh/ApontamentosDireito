@@ -1,6 +1,6 @@
 # Aula 1 - Direito e Organização da Segurança
 
-## Ética na Cibersegurança (**não sai na frequência**)
+## Ética na Cibersegurança (não sai na frequência)
 
 Definição: Ética é a parte da filosofia que estuda a moralidade do comportamento humano.
 

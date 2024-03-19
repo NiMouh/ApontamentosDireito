@@ -5,11 +5,14 @@
 O QNRCS é um documento que estabelece um conjunto de princípios, diretrizes e medidas de política de cibersegurança, que visam a proteção de sistemas de informação e a garantia da segurança do ciberespaço.
 
 O QNRCS é composto por 5 **eixos estratégicos**:
- - **Eixo 1**: Identificação e avaliação de riscos;
- - **Eixo 2**: Proteção;
- - **Eixo 3**: Detecção;
- - **Eixo 4**: Resposta;
- - **Eixo 5**: Recuperação;
+
+| Eixo estratégico | Descrição                           |
+| ---------------- | ----------------------------------- |
+| **Eixo 1**       | Identificação e avaliação de riscos |
+| **Eixo 2**       | Proteção                            |
+| **Eixo 3**       | Deteção                             |
+| **Eixo 4**       | Resposta                            |
+| **Eixo 5**       | Recuperação                         |
 
 ## Direito da informática
 

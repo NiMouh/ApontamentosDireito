@@ -19,11 +19,14 @@ Mesmo sendo um direito fundamental, o mesmo **tem que ser conciliado com outros 
 ### Sujeitos intervenientes
 
 No tratamento de dados pessoais, intervêm vários sujeitos, nomeadamente:
-- **Titular dos dados**: Pessoa singular a quem os dados dizem respeito;
-- **Responsável pelo tratamento**: Sujeito que define que define a finalidade e os meios de tratamento dos dados pessoais;
-- **Subcontratante**: Sujeito que trata os dados pessoais por conta do responsável pelo tratamento;
-- **EDP (Encarregado de Proteção de Dados)**: Sujeito que dentro da organização é responsável pelo cumprimento RGPD na mesma;
-- **Representante**: Sujeito que representa o responsável pelo tratamento estabelecido num estado-membro da UE, mas que não está estabelecido na UE.
+
+| Sujeito                                | Descrição                                                                                                                      |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| Titular dos dados                      | Pessoa singular a quem os dados dizem respeito                                                                                 |
+| Responsável pelo tratamento            | Sujeito que define que define a finalidade e os meios de tratamento dos dados pessoais                                         |
+| Subcontratante                         | Sujeito que trata os dados pessoais por conta do responsável pelo tratamento                                                   |
+| EDP (Encarregado de Proteção de Dados) | Sujeito que dentro da organização é responsável pelo cumprimento RGPD na mesma                                                 |
+| Representante                          | Sujeito que representa o responsável pelo tratamento estabelecido num estado-membro da UE, mas que não está estabelecido na UE |
 
 Estes são os **princípios** que devem ser respeitados no **tratamento de dados pessoais**:
 - **Princípio da transparência**: O titular dos dados deve ser informado sobre o tratamento dos seus dados;
