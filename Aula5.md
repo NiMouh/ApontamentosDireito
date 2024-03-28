@@ -1,10 +1,12 @@
 # Aula 5 - Tratamento de Dados Pessoais
 
-## Registos das atividades de tratamento  - Artigo 30.º
+## Registos das atividades de tratamento - Artigo 30.º
 
-O responsável pelo tratamento e o sub contratante devem manter um registo das atividades de tratamento efetuadas sob a sua responsabilidade.
+O responsável pelo tratamento e o sub contratante devem manter um registo das atividades de tratamento efetuadas sob a sua responsabilidade (efetuados por escrito, incluindo em formato eletrónico).
 
-Onde consta:
+Podendo disponibilizar, a pedido, o registo à autoridade de controlo.
+
+Neste registo deve constar:
 - nome do responsável pelo tratamento;
 - contactos do responsável pelo tratamento;
 - finalidades do tratamento;
@@ -12,9 +14,21 @@ Onde consta:
 
 Nota: As obrigações de registo não se aplicam a empresas com menos de 250 trabalhadores, exceto se o tratamento implicar um risco para os direitos e liberdades do titulares dos dados.
 
-## Segurança do tratamento Artigo 32.º
+## Segurança do tratamento - Artigo 32.º
 
-Tendo em conta as técnicas mais avançadas, os custos de aplicação e a natureza, o âmbito, o contexto e as finalidades do tratamento, bem como os riscos, de probabilidade e gravidade variável, para os direitos e liberdades das pessoas singulares, o responsável pelo tratamento e o subcontratante aplicam as medidas técnicas e organizativas adequadas para assegurar um nível de segurança adequado ao risco, incluindo, consoante o que for adequado.
+O responsável pelo tratamento e o subcontratante devem implementar medidas técnicas e organizativas adequadas para garantir um nível de segurança adequado ao risco.
+
+Ao avaliar o nível de segurança, devem ser considerados os riscos do tratamento, nomeadamente:
+- destruição;
+- perda;
+- alteração (acidental ou ilícita);
+- divulgação ou acesso não autorizado.
+
+## Avaliação de impacto da proteção de dados - Artigo 35.º
+
+Processo utilizado para analisar o tratamento de dados, avaliar a sua necessidade e proporcionalidade e ajudar a mitigar os riscos que pode colocar os direitos e liberdades dos titulares dos dados.
+
+Nota: É obrigatório para determinados tratamentos.
 
 ## Violação de dados pessoais
 
